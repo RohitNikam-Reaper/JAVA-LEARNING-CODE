@@ -10,7 +10,7 @@ The purpose of this repo is to practice core concepts, improve problem-solving s
 
 ## About me
 I am currently learning Java as part of my studies and personal practice. This repository will be updated regularly as I continue learning and building new programs.
-
+learning from brocode
 ## Tools Used
 - Java
 - IntelliJ IDEA / any Java IDE
