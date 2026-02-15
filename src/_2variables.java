@@ -59,7 +59,7 @@ public class _2variables {
         char sale= 'A';
         String MONEY= "$12.99";
         boolean isMood= true;
-
+        // let's see
 
     }
 }
