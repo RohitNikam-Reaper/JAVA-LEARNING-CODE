@@ -16,6 +16,7 @@ public class _43_static {
 
         // utility method also use this
 
+
         Math.round(3.99);
     }
 }
