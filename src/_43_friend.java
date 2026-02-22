@@ -9,7 +9,8 @@ public class _43_friend {
 
     }
     static void showfriends (){
-        System.out.println("YOU HAVE "+ numoffriend + " total friends" ); // on static attribute you don't need to use this. you can write directly
+        System.out.println("YOU HAVE "+ numoffriend + " total friends" ); // on static attribute you don't need to use this
+        // you can write directly
 
     }
 
