@@ -32,6 +32,7 @@ public class _44_inheritance {
         cat.speak();
         System.out.println(plant.isalive);
         plant.photosynthesis();
+        // code testing
 }
 
 }
