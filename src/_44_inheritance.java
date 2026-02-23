@@ -15,7 +15,7 @@ public class _44_inheritance {
 //    Plant      Animal
 //                 ▲
 //             ▲       ▲
-//        Dog       Cat
+//            Dog     Cat
 
         _44_dog dog = new _44_dog();
         _44_cat cat = new _44_cat();
