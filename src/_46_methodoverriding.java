@@ -6,8 +6,8 @@ public class _46_methodoverriding {
 
 
         _46_dog dog = new _46_dog();
-        _47_cat cat = new _47_cat();
-        _48_fish fish = new _48_fish();
+        _46_cat cat = new _46_cat();
+        _46_fish fish = new _46_fish();
 
 
         dog.move();

@@ -1,4 +1,4 @@
-public class _48_fish extends  _46_animal {
+public class _46_fish extends  _46_animal {
 
     @Override
     void move() {
