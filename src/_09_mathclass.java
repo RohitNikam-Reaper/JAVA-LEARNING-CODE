@@ -1,4 +1,4 @@
-public class _9_mathclass {
+public class _09_mathclass {
 
     public static void main(String[] args ){
 

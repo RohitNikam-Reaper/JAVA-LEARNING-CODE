@@ -1,5 +1,5 @@
 import java.util.Random;
-public class _8_randomnumbers {
+public class _08_randomnumbers {
     public static void  main(String[] args){
 
         Random random = new Random();

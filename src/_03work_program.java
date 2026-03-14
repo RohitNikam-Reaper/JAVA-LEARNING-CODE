@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // AREA OF RECTANGLE PROGRAM
-public class _3work_program {
+public class _03work_program {
     public static void main(String[] args){
 
         Scanner scanner=new Scanner(System.in);

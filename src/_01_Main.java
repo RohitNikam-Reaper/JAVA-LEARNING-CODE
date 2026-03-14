@@ -1,4 +1,4 @@
-public class _1Main {
+public class _01_Main {
     public static void main( String[] args){
 
         System.out.print("this is how you put the output on screen\n"); // use \n for new line

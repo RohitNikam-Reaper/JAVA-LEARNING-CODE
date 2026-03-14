@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _7if_condn {
+public class _07if_condn {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

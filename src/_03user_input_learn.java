@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _3user_input_learn {
+public class _03user_input_learn {
 
     public static void main(String[] args){
 

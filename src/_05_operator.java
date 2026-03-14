@@ -1,4 +1,4 @@
-public class _5operator {
+public class _05_operator {
 
     public static void main(String[] args){
 
